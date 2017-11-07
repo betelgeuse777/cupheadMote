@@ -1,5 +1,6 @@
 # cupheadMote
 java app connect wiimote and interface buttons for cuphead pc game on windows 10
+game trailer: https://www.youtube.com/watch?v=4TjUPXAn2Rg
 
 follow the instructions bellow:
 
