@@ -23,4 +23,4 @@ if wiimote leds turn on and vibrate then is ready to use
 if java messaje "No control detected" then repeat step 1
 
 NOTE:
-WiiMotionPlus INSIDE not working :( sorry
+WiiMotionPlus INSIDE (Nintendo RVL-CNT-01-TR) not working :( sorry
