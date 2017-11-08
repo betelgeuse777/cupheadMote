@@ -7,7 +7,7 @@ WIIMOTE BUTTONS:
 https://ibb.co/dZbJLw
 
 you need:
-* wiimote (Nintendo RVL-CNT-01)        --- (WiiMotionPlus INSIDE) not working :(
+* wiimote (Nintendo RVL-CNT-01)        
 * usb bluetooth
 
 -----------------------------------------------------------------------------------------------------------
@@ -21,3 +21,6 @@ follow the instructions bellow:
 if wiimote leds turn on and vibrate then is ready to use 
 
 if java messaje "No control detected" then repeat step 1
+
+NOTE:
+WiiMotionPlus INSIDE not working :( sorry
