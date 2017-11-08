@@ -14,7 +14,7 @@ you need:
 
 follow the instructions bellow:
 
-1. connect your wiimote control to windows bluethoot service
+1. connect your wiimote control to windows bluetooth service
 2. download executable: https://mega.nz/#!0bRWha7K!rFo4pwaQp1O-SITFe7nEwL3S-WafPHGOlF2CkTKkCQA
 2. extract files and run cupheadMote.jar 
 
